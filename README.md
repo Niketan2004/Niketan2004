@@ -1,32 +1,34 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/java-programming-language-application-web-development-concept-virtual-screen-147488032.jpg)]
+[![MasterHead](https://thumbs.dreamstime.com/b/java-programming-language-application-web-development-concept-virtual-screen-147488032.jpg)
 <h1 align="center">Hi 👋, I'm Niketan Koyande</h1>
 <h3 align="center">Computer Engineering Student | Java Enthusiast |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niketan2004&label=Profile%20views&color=0e75b6&style=flat" alt="niketan2004" /> </p>
+# 💫 About Me:
+🌌 I’m currently working on<br>Enhancing my Java and MySQL skills by developing projects.<br><br>👥 I’m looking to collaborate on<br>Java-based projects, especially those involving database management and backend development.<br><br>🤝 I’m looking for help with<br>Learning new frameworks and improving my knowledge in web development as well as in DSA.<br><br>🌱 I’m currently learning<br>Advanced Java concepts, DSA, and exploring web development technologies.<br><br>💬 Ask me about<br>Java programming, MySQL databases, and my recent projects in software development.<br><br>⚡ Fun fact<br>I enjoy creating small games and applications as a way to sharpen my coding skills and have fun!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niketan2004" alt="niketan2004" /></a> </p>
 
-- 🌱 I’m currently learning **Java advance**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/niketankoyande) 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Niketan2004/MyProjects/tree/main](https://github.com/Niketan2004/MyProjects/tree/main)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Niketan2004&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Niketan2004&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niketan2004&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 💬 Ask me about **java,c,**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Niketan2004&theme=ambient_gradient&no-frame=true&no-bg=false&margin-w=4)
 
-- 📫 How to reach me **connect.niketan@gmail.com**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/niketankoyande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niketankoyande" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/niketan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="niketan" height="30" width="40" /></a>
-<a href="https://instagram.com/koyandeniketan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="koyandeniketan" height="30" width="40" /></a>
-<a href="https://leetcode.com/CodeNik18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codenik18" height="30" width="40" /></a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Niketan2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niketan2004&show_icons=true&locale=en&layout=compact" alt="niketan2004" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=Niketan2004&icon=9&color=1)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niketan2004&show_icons=true&locale=en" alt="niketan2004" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niketan2004&" alt="niketan2004" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
