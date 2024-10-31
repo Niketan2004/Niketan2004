@@ -3,7 +3,7 @@
 <h3 align="center">Computer Engineering Student | Java Enthusiast |</h3>
 
 # 💫 About Me:
-🌌 I’m currently working on<br>Enhancing my Java and MySQL skills by developing projects.<br><br>👥 I’m looking to collaborate on<br>Java-based projects, especially those involving database management and backend development.<br><br>🤝 I’m looking for help with<br>Learning new frameworks and improving my knowledge in web development as well as in DSA.<br><br>🌱 I’m currently learning<br>Advanced Java concepts, DSA, and exploring web development technologies.<br><br>💬 Ask me about<br>Java programming, MySQL databases, and my recent projects in software development.<br><br>⚡ Fun fact<br>I enjoy creating small games and applications as a way to sharpen my coding skills and have fun!
+🌌 I’m currently working on<br>Enhancing my Java SpringBoot  skills by developing projects.<br><br>👥 I’m looking to collaborate on<br>Java-based projects, especially those involving database management and backend development.<br><br>🤝 I’m looking for help with<br>Learning new frameworks and improving my knowledge in web development as well as in DSA.<br><br>🌱 I’m currently learning<br>Advanced Java concepts, DSA, and exploring web development technologies.<br><br>💬 Ask me about<br>Java programming, MySQL databases,SpringBoot and my recent projects in software development.<br><br>⚡ Fun fact<br>I enjoy creating small games and applications as a way to sharpen my coding skills and have fun!
 
 
 ## 🌐 Socials:
