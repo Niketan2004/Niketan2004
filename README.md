@@ -1,31 +1,38 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/java-programming-language-application-web-development-concept-virtual-screen-147488032.jpg)
+![MasterHead](https://contentstatic.techgig.com/photo/93000110/what-makes-java-still-popular-among-developers.jpg?28608)
 <h1 align="center">Hi 👋, I'm Niketan Koyande</h1>
-<h3 align="center">Computer Engineering Student | Java Enthusiast |</h3>
+<h3 align="center">Computer Engineering Student | Java & Spring Boot Developer</h3>
 
-# 💫 About Me:
-🌌 I’m currently working on<br>Enhancing my Java SpringBoot  skills by developing projects.<br><br>👥 I’m looking to collaborate on<br>Java-based projects, especially those involving database management and backend development.<br><br>🤝 I’m looking for help with<br>Learning new frameworks and improving my knowledge in web development as well as in DSA.<br><br>🌱 I’m currently learning<br>Advanced Java concepts, DSA, and exploring web development technologies.<br><br>💬 Ask me about<br>Java programming, MySQL databases,SpringBoot and my recent projects in software development.<br><br>⚡ Fun fact<br>I enjoy creating small games and applications as a way to sharpen my coding skills and have fun!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niketan2004&label=Profile%20views&color=0e75b6&style=flat" alt="niketan2004" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niketan2004" alt="niketan2004" /></a> </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/niketankoyande) 
+- 🔭 I’m currently working on **Enhancing my Java SpringBoot skills by developing projects.**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Niketan2004&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Niketan2004&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Niketan2004&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+- 🌱 I’m currently learning **Spring Boot and as well as Frontend**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Niketan2004&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+- 👯 I’m looking to collaborate on **Java-based projects, especially those involving database management and backend development.**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 🤝 I’m looking for help with **Learning new frameworks and improving my knowledge in web development as well as in DSA.**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Niketan2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- 💬 Ask me about **ava programming, MySQL databases,SpringBoot and my recent projects in software development.**
 
----
-[![](https://visitcount.itsvg.in/api?id=Niketan2004&icon=10&color=6)](https://visitcount.itsvg.in)
+- 📫 How to reach me **connect.niketan@gmail.com**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- ⚡ Fun fact **I enjoy creating small games and applications as a way to sharpen my coding skills and have fun!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/niketankoyande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niketankoyande" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@learner_niketan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@learner_niketan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/codenik18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codenik18" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niketan2004&show_icons=true&locale=en&layout=compact" alt="niketan2004" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niketan2004&show_icons=true&locale=en" alt="niketan2004" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niketan2004&" alt="niketan2004" /></p>
+
