@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Learning new frameworks and improving my knowledge in web development as well as in DSA.**
 
-- 💬 Ask me about **ava programming, MySQL databases,SpringBoot and my recent projects in software development.**
+- 💬 Ask me about **Java programming, MySQL databases,SpringBoot and my recent projects in software development.**
 
 - 📫 How to reach me **connect.niketan@gmail.com**
 
