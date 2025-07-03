@@ -1,46 +1,89 @@
-![MasterHead](https://contentstatic.techgig.com/photo/93000110/what-makes-java-still-popular-among-developers.jpg?28608)
-<h1 align="center">Hi 👋, I'm Niketan Koyande</h1>
-<h3 align="center">Computer Engineering Student | Java & Spring Boot Developer</h3>
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGEFquYrA8cCw/profile-displaybackgroundimage-shrink_350_1400/B4DZdOPpgQG8AY-/0/1749364415890?e=1756944000&v=beta&t=vtKoKFe5u08xyBxF55sSJQUpsRHbAxt6J3aQqn3UHqE)
+<!-- Header Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Niketan+Koyande!;Java+%7C+Spring+Boot+Backend+Developer;Always+Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing SVG" />
+
+---
+
+## 👨‍💻 About Me
+I’m a **Computer Engineering** student from **MITM Sukalwad**, with a strong focus on **backend development** using Java and Spring Boot.  
+I enjoy solving real-world problems and building full-stack applications that are clean, secure, and scalable.
+
+---
+
+## 💡 Tech Stack
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=flat&logo=tailwind-css&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🚀 Projects I’ve Built
+
+- 🔒 **[SecureBank](https://github.com/Niketan2004/BankApplication)**  
+  Full-stack bank app using Spring Boot + React + JWT.  
+  Features role-based access, pagination, DTO mapping, and secure APIs.
+
+- 🌐 **[Portfolio Website](https://portfolio-niketan.netlify.app)**  
+  Responsive developer portfolio made with HTML, JavaScript, and Tailwind CSS.
+
+- 🌦 **[Weather App](https://github.com/Niketan2004/Weather-Application)**  
+  Real-time weather using Spring Boot + OpenWeatherMap API.
+
+- 📰 **[News App](https://github.com/Niketan2004/News-Application)**  
+  News aggregator with dynamic categories using REST APIs and Thymeleaf.
+
+- ✅ **[To-Do List](https://github.com/Niketan2004/ToDo-List)**  
+  Spring Boot CRUD app for personal task management with MySQL backend.
+
+- 🏦 **[Banking CLI App](https://github.com/Niketan2004/Bank-Managment)**  
+  Console banking system with transaction handling and JDBC logic.
+
+---
+
+## 📜 Certifications
+
+- 🎓 Mastering Java + Spring Boot – Udemy  
+- 🎓 The Front-End Web Developer Bootcamp – Udemy  
+- 🎓 JavaServer Pages (JSP) Mastery – Udemy  
+- 🎓 Introduction to AI – Infosys Springboard  
+
+---
+
+## 🎯 Currently Exploring
+
+- 🔐 Spring Security and OAuth2  
+- 🧩 Microservices Architecture  
+- ☁️ Cloud Deployment (AWS + CI/CD)  
+- 🛠️ System Design Patterns  
+
+---
+
+## 📈 GitHub Stats
+
 <p align="center">
-  <a href="https://portfolio-niketan.netlify.app" target="_blank">
-    <img alt="Portfolio Badge" src="https://img.shields.io/badge/Portfolio-Live-6B7280?style=flat&logo=netlify&logoColor=00C7B7" />
-  </a>
-  <a href="https://www.linkedin.com/in/niketankoyande" target="blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Niketan-blue?logo=linkedin" />
-  </a>
-</p>
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=niketan2004&label=Profile%20views&color=0e75b6&style=flat" alt="niketan2004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niketan2004" alt="niketan2004" /></a> </p>
- -->
-- 🔭 I’m currently working on Enhancing my Java SpringBoot skills by developing projects.
-
-- 🌱 I’m currently learning **Spring Boot Microservices and as well as Frontend**
-
-- 👯 I’m looking to collaborate on **Java-based projects, especially those involving database management and backend development.**
-
-- 🤝 I’m looking for help with **Learning new frameworks and improving my knowledge in web development as well as in DSA.**
-
-- 👨‍💻 All of my projects are available at [https://portfolio-niketan.netlify.app/](https://portfolio-niketan.netlify.app/)
-
-- 💬 Ask me about **ava programming, MySQL databases,SpringBoot and my recent projects in software development.**
-
-- 📫 How to reach me **connect.niketan@gmail.com**
-
-- ⚡ Fun fact **I enjoy creating small games and applications as a way to sharpen my coding skills and have fun!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/niketankoyande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="niketankoyande" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@learner_niketan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@learner_niketan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/codenik18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codenik18" height="30" width="40" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Niketan2004&show_icons=true&theme=radical" alt="Niketan's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Niketan2004&theme=radical" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niketan2004&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niketan2004&show_icons=true&locale=en&layout=compact" alt="niketan2004" /></p>
+## 🤝 Let's Connect
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niketan2004&show_icons=true&locale=en" alt="niketan2004" /></p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/niketankoyande)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:connect.niketan@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Niketan2004)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niketan2004&" alt="niketan2004" /></p>
+---
+
+_Thanks for stopping by! Feel free to check out my projects or drop a message. Let's build something great together!_ 🚀
