@@ -1,8 +1,9 @@
-![MasterHead](https://github.com/user-attachments/assets/71b803b0-ac09-4cbd-b39b-d656b38710a2)
+![MasterHead](https://github.com/user-attachments/assets/52e050ab-f0d4-4d2f-8c90-4653da178999)
 <!-- Header Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Niketan+Koyande!;Java+%7C+Spring+Boot+Backend+Developer;Always+Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
+
 
 ## 👨‍💻 About Me
 I’m a **Computer Engineering** student from **MITM Sukalwad**, with a strong focus on **backend development** using Java and Spring Boot.  
