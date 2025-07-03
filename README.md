@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQGEFquYrA8cCw/profile-displaybackgroundimage-shrink_350_1400/B4DZdOPpgQG8AY-/0/1749364415890?e=1756944000&v=beta&t=vtKoKFe5u08xyBxF55sSJQUpsRHbAxt6J3aQqn3UHqE)
+![MasterHead](https://github.com/user-attachments/assets/71b803b0-ac09-4cbd-b39b-d656b38710a2)
 <!-- Header Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Niketan+Koyande!;Java+%7C+Spring+Boot+Backend+Developer;Always+Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 
