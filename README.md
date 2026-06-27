@@ -33,7 +33,7 @@ I enjoy solving real-world problems and building full-stack applications that ar
   Features role-based access, pagination, DTO mapping, and secure APIs.
 
 - 🌐 **[Portfolio Website](https://portfolio-niketan.netlify.app)**  
-  Responsive developer portfolio made with HTML, JavaScript, and Tailwind CSS.
+  Responsive developer portfolio made with React and Tailwind CSS.
 
 - 🌦 **[Weather App](https://github.com/Niketan2004/Weather-Application)**  
   Real-time weather using Spring Boot + OpenWeatherMap API.
